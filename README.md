@@ -3,7 +3,7 @@
  This web application is a redesigned camping reservation/park information application inspired by the Texas State Parks reservation system. It is designed to elevate the user experience and streamline the process to be efficient and simple. 
 
  ### [Check it out!](salty-hamlet-73070.herokuapp.com/) 
-![image](public/img/parks_n_req.png)
+<img src="./public/img/parks_n_req.png">
 
  ## Use 
  Load the web app in your browser and scroll down to the image map. Each of the red pins notates a park. Click on desired red pin and a modal will pop up with the parks name and the option to view that parks page or close the modal to choose another park.

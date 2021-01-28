@@ -28,7 +28,7 @@ Then you will need to install the dependencies needed to run the application
 ````
 npm install
 ````
-and add your password to config.json
+and add your MySQL password to the config.json
 ````
 "username": "root",
 "password": "",
